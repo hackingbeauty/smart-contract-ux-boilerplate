@@ -1,6 +1,6 @@
 # Connect Ethereum Smart Contracts To A Superior UI Foundation
 
-[www.smartcontractuxboilerplate.com](http://www.smartcontractuxboilerplate.com)
+[smartcontractuxboilerplate.com](http://www.smartcontractuxboilerplate.com)
 
 Smart Contract UX Boilerplate is an expert React boilerplate for building full-stack DApps on Ethereum.  It's built with the latest versions of React, Redux, and Webpack and has a superior organization and directory structure.  It comes with a solid CSS architecture that helps you correctly skin your DApp.
 
