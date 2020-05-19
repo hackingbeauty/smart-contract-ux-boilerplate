@@ -7,7 +7,7 @@ const colors = getStyles([
   'secondary'
 ])
 
-const theme = createMuiTheme({
+const muiTheme = createMuiTheme({
   palette: {
     primary: {
       main: colors.primary
@@ -24,4 +24,4 @@ const theme = createMuiTheme({
   }
 })
 
-export default theme
+export default muiTheme
