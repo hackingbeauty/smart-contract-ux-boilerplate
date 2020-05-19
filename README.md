@@ -1,4 +1,4 @@
-# Connect Ethereum Smart Contracts To A Superior UI Foundation
+# Connect Ethereum Smart Contracts To A Superior UI/UX Foundation
 
 [smartcontractuxboilerplate.com](http://www.smartcontractuxboilerplate.com)
 
